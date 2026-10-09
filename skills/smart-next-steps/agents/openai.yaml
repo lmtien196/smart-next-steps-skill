@@ -1,0 +1,6 @@
+interface:
+  display_name: "Smart Next Steps"
+  short_description: "Three useful follow-ups grounded in the task just done"
+  default_prompt: "Dùng $smart-next-steps để đề xuất 3 việc tiếp theo hữu ích, cụ thể và bám sát task vừa hoàn thành."
+policy:
+  allow_implicit_invocation: true
